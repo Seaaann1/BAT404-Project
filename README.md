@@ -14,4 +14,4 @@ their performance, with suggestions on how they might improve.
 
 Members
 
-Banta, Sean () Briones, Jastine () Figueroa, Love Shane (), Larisma, Logyne Gail ()
+Banta, Sean () Briones, Jastine () Figueroa, Love Shane (), Larisma, Logyne Gail (https://github.com/lgyngyl)
